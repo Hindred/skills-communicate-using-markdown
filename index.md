@@ -10,3 +10,6 @@ Initialized empty git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var Saludo = "Hello, Causas!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
